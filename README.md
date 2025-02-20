@@ -2,4 +2,8 @@
 
 Para executar o sonar, apenas digite
 
-```sh docker-compose up -d ```
+```docker-compose up -d ```
+
+Para parar 
+
+```docker-compose down ```
